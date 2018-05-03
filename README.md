@@ -10,7 +10,7 @@ here you will find some small helpers i made/use for Profit Trailer.
 as the name says it, this is a pretty simple DCA Calculator (file format is LibreOffice or Excel XML)
 
 ## print-pt-buylog.sh
-simple shell-script which shows all buys from the current logfile of Profit Trailer. i use it from time to time to quickly check all buys my bot did lately.
+simple shell-script i made which shows all buys from the current logfile of Profit Trailer. i use it from time to time to quickly check the buys my bot did lately.
 
 sample output:
 
@@ -27,3 +27,20 @@ $ print-pt-buylog.sh bina | tail -10
 2018-05-03 10:44:03 INFO DCAStrategyRunner - BUYLOG: ADABTC
 2018-05-03 12:00:51 INFO NormalStrategyRunner - BUYLOG: ELFBTC
 ```
+
+usage:
+
+```
+$ print-pt-buylog.sh 
+Usage: ./print-pt-buylog.sh bina/trex/polo [d/n]
+
+first parameter must be set to one of these
+bina - Binance
+trex - Bittrex
+polo - Poloniex
+
+second parameter is optional
+d - show dca buys only
+n - show normal buys only
+
+here you will find some small helpers i made/use for Profit Trailer. 
