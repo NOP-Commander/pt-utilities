@@ -42,5 +42,3 @@ polo - Poloniex
 second parameter is optional
 d - show dca buys only
 n - show normal buys only
-
-here you will find some small helpers i made/use for Profit Trailer. 
