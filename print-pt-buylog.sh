@@ -3,7 +3,7 @@
 ##
 ## this script shows buys from the log of profit trailer in
 ## the console. i take no responsibility for using this script.
-## it works for me though. tested on linux, untested on macos
+## it works for me though. tested on linux, untested on macos.
 ##
 ## this script is open source. do whatever you like to do with it.
 ##
