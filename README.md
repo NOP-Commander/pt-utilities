@@ -7,7 +7,7 @@ here you will find some small helpers i made/use for Profit Trailer.
 <b>just for the record: i don't take any responsibility for using them. they are working for me at least. everything published here is open source. do whatever you want to do with it.</b>
 
 ## simple-dca-calc
-as the name says it, this is a pretty simple DCA Calculator (file format is LibreOffice or Excel XML)
+as the name says it, this is a spreadsheet which can be used as a simple DCA Calculator (file format is LibreOffice or Excel XML)
 
 ## print-pt-buylog.sh
 simple shell-script i made which shows all buys from the current logfile of Profit Trailer. i use it from time to time to quickly check the buys my bot did lately.
